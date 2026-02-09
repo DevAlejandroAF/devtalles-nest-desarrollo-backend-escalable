@@ -16,4 +16,10 @@
 docker-compose up -d
 ```
 
+5. Ejecutar ```Seed``` de la palicación
+
+```
+http://localhost:3000/api/seed
+```
+
 5. Levantar el proyecto: ```pnpm run start:dev```
